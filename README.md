@@ -1,5 +1,5 @@
 
-# SpeedDetection_NewSpaceResearch
+# Speed Detection Computer Vision
 An implementation of a vehicle speed detection algorithm using an Haar object detector, an object correlation tracker using openCV and python. <br />
 
 project data: <br />
